@@ -1,0 +1,7 @@
+value = input("Type something: ")
+print(f"Is Alphabetic: {value.isalpha()}")
+print(f"Is Numeric: {value.isnumeric()}")
+print(f"Is Alphanumeric: {value.isalnum()}")
+print(f"Is Uppercase: {value.isupper()}")
+print(f"Is Lowercase: {value.islower()}")
+print(f"Is Decimal: {value.isdecimal()}")
