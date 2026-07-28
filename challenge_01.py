@@ -1,0 +1,16 @@
+print("Challenge 01")
+# nome = input("What's your name? ")
+# print("Welcome " + nome + "!")
+
+print("Challenge 02")
+# print("Insert your birth date: ")
+# day = input("Day: ")
+# month = input("Month: ")
+# year = input("Year: ")
+# print("You were born", month, day, "of", year + ". Correct?")
+
+print("Challenge 03")
+print("Insert 2 numbers: ")
+n1 = input("N1: ")
+n2 = input("N2: ")
+print("Sum:", n1 + n2)
