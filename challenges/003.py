@@ -1,0 +1,5 @@
+print("Challenge 03")
+print("Insert 2 numbers: ")
+n1 = input("N1: ")
+n2 = input("N2: ")
+print("Sum:", n1 + n2)
