@@ -1,0 +1,5 @@
+name = input("Type you full name: ")
+print(name.upper())
+print(name.lower())
+print(len(name.replace(" ", "")))
+print(len(name.split()[0]))
