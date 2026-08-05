@@ -1,7 +1,5 @@
-x = int(input())
-y = int(input())
+def mul(a, b):
+    return a * b
 
-x = x / y
-y = y / x
 
-print(y)
+print(mul({1, 2}, 2))
